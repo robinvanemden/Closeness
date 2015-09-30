@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Closeness</string>
+    <string name="action_settings">About</string>
+    <string name="main_temperature_string">Temperature: waiting for value</string>
+</resources>
