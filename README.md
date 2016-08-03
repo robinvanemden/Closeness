@@ -19,7 +19,7 @@ Amsterdam Emotion Regulation lab, http://emotionregulationlab.com/
 
 Hans IJzerman, https://sites.google.com/site/hijzerman/
 
-Robin van Emden, http://www.pavlov.io/ 
+Robin van Emden, http://pavlov.tech/ 
 
 #License 
 
