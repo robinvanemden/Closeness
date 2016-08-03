@@ -4,7 +4,7 @@
  *
  * Version:             1.1.2
  *
- * Developer:           r.a.van.emden@vu.nl / robinvanemden@gmail.com
+ * Developer:           robinvanemden@gmail.com
  *
  * Acknowledgements:    Hans IJzerman, https://sites.google.com/site/hijzerman/
  *                      Cor Wit Fund, http://www.corwitfonds.nl/
